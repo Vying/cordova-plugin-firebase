@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "772361535432",
+    "firebase_url": "https://admglass-1bb89.firebaseio.com",
+    "project_id": "admglass-1bb89",
+    "storage_bucket": "admglass-1bb89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772361535432:android:061d457fcc08f5fc",
+        "android_client_info": {
+          "package_name": "com.admglas.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772361535432-i7vm0kh22csrfpgnd44udn4ja4ra4gv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDogeitIq5U5Nph7D0zF-LragIgx29A1Q4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
