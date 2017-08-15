@@ -51,6 +51,8 @@ if (directoryExists("platforms/ios")) {
 }
 
 if (directoryExists("platforms/android")) {
+    alert("hi");
+    
   var paths = ["google-services.json", "platforms/android/assets/www/google-services.json"];
 
   for (var i = 0; i < paths.length; i++) {
